@@ -12,7 +12,6 @@ Overview
   - Activities: ./train/y_train.txt and ./test/y_test.txt files
   - Subjects: ./train/subject_train.txt and ./test/subject_test.txt files
   - Features: ./train/X_train.txt and ./test/X_test.txt files
-* 
 
 
 Procedures
